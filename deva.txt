@@ -1,4 +1,4 @@
 This is my first line
 This is my second line
 This is my remote repo
-This is my fetch
+This is my remote repository
